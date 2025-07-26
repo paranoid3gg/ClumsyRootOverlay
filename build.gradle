@@ -1,1 +1,1 @@
-buildscript {/*...mock...*/}
+apply plugin: 'com.android.application'
